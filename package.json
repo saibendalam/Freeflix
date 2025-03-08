@@ -12,7 +12,7 @@
   "dependencies": {
     "@paraboly/react-native-modal-box": "^0.0.1",
     "@paraboly/react-native-report-modal": "^0.0.12",
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "react": "16.11.0",
     "react-native": "0.62.1",
     "react-native-gesture-handler": "^1.6.1",
